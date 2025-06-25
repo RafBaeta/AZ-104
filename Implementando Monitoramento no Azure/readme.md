@@ -36,5 +36,9 @@ O primeiro passo é a criação do habilitar o agent para coletar os dados da VM
 
   2.7 Finalize: Em "Review + Create" fica um resumo completo de tudo que voce selecionou e vai aplicar na sua regra de alerta.
 
+ ![image](https://github.com/RafBaeta/AZ-104/blob/a5f3bfb9649d12fa1c4d9d3983dd2d176b51bc6f/Implementando%20Monitoramento%20no%20Azure/images/2.7%20Review%20e%20Create.png)
 
-Pesquise por 
+Pronto!! Assim que alguma das suas regras forem atingidas, voce recebera um alerta como esse abaixo.
+
+ ![image]()
+
